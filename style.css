@@ -1,0 +1,48 @@
+
+body {
+    background-color: lightblue;
+    font-family: Arial;
+    margin: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+    background-color: white;
+    padding: 15px;
+}
+
+h2 {
+    color: darkblue;
+    border-bottom: 2px solid blue;
+    padding-bottom: 5px;
+}
+
+p, li {
+    font-size: 17px;
+}
+.profile {
+    text-align: center;
+    margin: 20px;
+}
+
+.profile img {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid black;
+}
+
+.section {
+    background-color: white;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 10px;
+}
+
+footer {
+    text-align: center;
+    color: darkblue;
+    padding: 10px;
+}
